@@ -1,0 +1,23 @@
+{
+  "name": "hubot-meowme",
+  "version": "1.0.0",
+  "description": "Meowme makes your everyday is Caturday",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymt2/hubot-meowme.git"
+  },
+  "author": "Tatsuya YAMAMOTO (ymt2)",
+  "license": "MIT",
+  "keywords": "hubot, hubot-scripts, cats",
+  "bugs": {
+    "url": "https://github.com/ymt2/hubot-meowme/issues"
+  },
+  "homepage": "https://github.com/ymt2/hubot-meowme#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0"
+  }
+}
