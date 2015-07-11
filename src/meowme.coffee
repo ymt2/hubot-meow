@@ -1,5 +1,5 @@
 # Description:
-#   Meowme makes your everyday is Caturday
+#   Meow makes your everyday is Caturday
 #
 # Dependencies:
 #   None

@@ -1,9 +1,9 @@
-==============
- hubot-meowme
-==============
+============
+ hubot-meow
+============
 
 
-Meowme makes your everyday is Caturday!
+Meow makes your everyday is Caturday!
 
 
 Installation
@@ -11,13 +11,13 @@ Installation
 
 In hubot project repo, run: ::
 
-  npm install hubot-meowme --save
+  npm install hubot-meow --save
 
 
 Then add hubot-pugme to your external-scripts.json: ::
 
   [
-    "hubot-meowme"
+    "hubot-meow"
   ]
 
 
