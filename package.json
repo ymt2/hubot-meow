@@ -1,6 +1,6 @@
 {
   "name": "hubot-meow",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Meow makes your everyday is Caturday",
   "main": "index.coffee",
   "scripts": {

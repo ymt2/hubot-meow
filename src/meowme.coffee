@@ -22,7 +22,7 @@ module.exports = (robot) ->
     msg.http(url)
       .get() (err, res, body) ->
         images = $(body).find 'image'
-        msg.send images[0].find('url').text()
+        msg.send $(image).find('url').text() for image in images
 
   robot.respond /meow bomb( (\d+))?/i, (msg) ->
     count = msg.match[2] || 5
